@@ -1,0 +1,17 @@
+{
+    "name": "nelswebdev/php8-helper",
+    "description": "Provides forward compatibilty for using PHP 8 string functions. Comments from original documentation",
+    "license": "PHP License",
+    "authors": [
+        {
+            "name": "Nels"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "helper.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
