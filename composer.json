@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "files": [
-            "helper.php"
+            "strings.php"
         ]
     },
     "minimum-stability": "stable",
